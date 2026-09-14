@@ -1,0 +1,10 @@
+# Local C build outputs
+*.o
+*.out
+*.dSYM/
+/Data-Structures/*/main
+/GCCTest/main
+/GCCTest/cast
+
+# macOS metadata
+.DS_Store
